@@ -1,2 +1,0 @@
-var book={title :"core java" , author:" Herbert Shield",price:500 , publisher:"dkoe"}; 
-
